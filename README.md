@@ -1,0 +1,1 @@
+"This project provides a Python-based solution for managing and updating an IP address allow list. The script reads from an allow_list.txt file, removes IP addresses specified in a remove_list, and updates the file with the revised list. The tool ensures that only authorized IP addresses are retained in the allow list, facilitating secure and efficient access control management."
